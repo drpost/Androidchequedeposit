@@ -1,0 +1,5 @@
+C:\Users\Public\Centennial College\Winter 2015\COMP231\CheckCashingService\TermsAndConditions\TermsAndConditions\bin\Debug\TermsAndConditions.dll
+C:\Users\Public\Centennial College\Winter 2015\COMP231\CheckCashingService\TermsAndConditions\TermsAndConditions\bin\Debug\TermsAndConditions.pdb
+C:\Users\Public\Centennial College\Winter 2015\COMP231\CheckCashingService\TermsAndConditions\TermsAndConditions\obj\Debug\TermsAndConditions.csprojResolveAssemblyReference.cache
+C:\Users\Public\Centennial College\Winter 2015\COMP231\CheckCashingService\TermsAndConditions\TermsAndConditions\obj\Debug\TermsAndConditions.dll
+C:\Users\Public\Centennial College\Winter 2015\COMP231\CheckCashingService\TermsAndConditions\TermsAndConditions\obj\Debug\TermsAndConditions.pdb
