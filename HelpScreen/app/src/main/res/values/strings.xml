@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">COMP231-Project</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Language">LANG</string>
+    <string name="HelpText">Step By Step</string>
+    <string name="HelpVideo">Youtube Video</string>
+    <string name="HelpTitle">Help</string>
+</resources>
