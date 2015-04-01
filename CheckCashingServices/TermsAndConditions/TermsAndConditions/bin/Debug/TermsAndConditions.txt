@@ -1,0 +1,375 @@
+Software Development Agreement
+THIS Software Development Agreement ("Agreement") is made effective the ______ day of _______ 20___ by
+and between Isotope Eleven, Inc. an Alabama Corporation (“Isotope11”), and , located at
+("Client").
+WHEREAS, Client desires to have software developed by Isotope11; and
+WHEREAS, Isotope11 represents that it has the expertise to develop such a software; and
+WHEREAS, Isotope11 desires to develop software for Client upon the terms and conditions hereinafter set
+forth;
+NOW, THEREFORE, in consideration of the mutual covenants and promises herein set forth, the parties
+hereby agree as follows:
+1. DEFINITIONS: The following capitalized terms, when used in this Agreement, shall have the meanings
+ascribed to them in this Section 1:
+1.1. "Product" shall mean the software program to be developed by Isotope11 pursuant to this Agreement in
+accordance with the Specifications, together with user manuals, other documentation and any other
+ancillary materials to be developed by Isotope11 pursuant hereto.
+1.2. "Specifications" shall mean the specifications for the Product as directed by Client, together with any
+additional specifications or modifications to the specifications that may be agreed to in writing by the
+parties during the term of this Agreement.
+1.3. "Intellectual Property" shall mean all intellectual property other than the Technology owned by
+Isotope11prior to the Effective Date or licensed to Isotope11by a third party, and used in the development
+of the Product.
+Other capitalized terms shall have the meanings ascribed to them in the body of this Agreement.
+2. TERMS AND CONDITIONS:
+2.1. DEVELOPMENT OF THE PRODUCT: Client hereby retains Isotope11 to design and develop, and
+Isotope11 hereby agrees to design and develop the Product in accordance with (1) the project outline set
+forth on the Scope of Workl (Exhibit A) and/or (2) the Product Specifications (Exhibit B) developed
+jointly by Client and Isotope11. The parties shall work together in a joint effort to accomplish the tasks
+and objectives set forth in the Product Specifications. Isotope11 shall be responsible for delivering and
+performing only those professional services specifically identified in the Product Specifications. Any
+modifications to the Product Specifications shall be pursuant to the Change Order process set forth below.
+2.2. CHANGE ORDERS: In the event Client desires to make any modifications to the Product
+Specifications or a deliverable, Client must provide a detailed change order in writing. This may be
+provided in the form of email, certified letter, or via technologies and/or tools provided by Isotope11. In
+the event of a conflict between the terms of this Agreement and a Change Order, the terms of this
+Agreement shall govern.
+SOFTWARE DEVELPOEMENT AGREEMENT 1
+R.10152009
+2.3. SUPPORT AND MAINTENANCE: Any support and maintenance services, updates, versions, or new
+releases shall be contracted under a separate agreement between Isotope11 and Client. Maintenance and
+support rights or obligations for any third party products or equipment that are used in the Product and are
+available through the respective vendor(s)/manufacture(s) of such content and equipment shall be assigned
+by Isotoep11 to Client. Isotope11 shall not use any intellectual property of any third-party in the Product
+without Client's written consent.
+2.4. CLIENT RESPONSIBILITIES: Client agrees to perform all tasks assigned to Client as set forth in this
+Agreement, the Product Specifications, or a Change Order, and to provide all assistance and cooperation to
+Isotope11 in order to complete timely and efficiently the Product. Isotope11 shall not be deemed in breach
+of this Agreement, the Product Specifications, a Change Order, or any milestone in the event Isotope11's
+failure to meet its responsibilities and time schedules is caused by Client's failure to meet (or delay in) its
+responsibilities and time schedules set forth in the System Specifications, a Change Order, or this
+Agreement. In the event of any such failure or delay by Client, (i) all of Isotope11's time frames,
+milestones, and/or deadlines shall be extended by the product of the number of days of Client's failure
+multiplied by two (2); and (ii) Client shall continue to make timely payments to Isotope11 as set forth in
+this Agreement, the Product Specifications, and any Change Order(s) as if all time frames, schedules, or
+deadlines had been completed by Isotope11. Client shall be responsible for making, at its own expense,
+any changes or additions to Client's current systems, software, and hardware that may be required to
+support operation of the Product. Unless otherwise contracted with Isotope11 or reflected in a Change
+Order, Client shall be responsible for initially populating and then maintaining any databases on the
+Product as well as providing all content for the Product. With the execution of a Change Order specifically
+asking Isotope11 to assesses the Client's systems, software and hardware from time to time, Isotope11 may
+agree to perform this function at normal Isotope11 rates.
+2.5. PROJECT MANAGERS: Client and Isotope11 shall assign a Project Manager for managing the
+implementation of the Product. The Project Managers shall be responsible for: (i) managing the day-to-day
+activities under this Agreement, (ii) serving as liaisons between the parties, (iii) assigning and scheduling
+the appropriate personnel to perform all of the required services under this Agreement, and (iv)
+authorizing and executing any and all Change Order(s). Client hereby acknowledges and agrees that the
+Client Project Manager shall have the proper authority and power to execute and perform the duties and
+responsibilities set forth in this Section. Isotope11 hereby acknowledges and agrees that the Isotope11
+Project Manager shall have the proper authority and power to execute and perform the duties and
+responsibilities set forth in this Section.
+2.6. ASSIGNMENT OF PROJECT: Isotope11 reserves the right, and Client hereby agrees, to assign
+subcontractors to this project to insure that the terms of this agreement are met as well as on-time
+completion.
+2.7. MARKETING: Client hereby grants Isotope11 the right to use the name and service marks of Client in
+its marketing materials or other oral, electronic, or written promotions, which shall include naming Client
+as a client of Isotope11 and a brief scope of services provided. Any use of Isotope11 logos or links on
+Client's Product must be approved in writing by Client. Either party may elect to issue a press release
+related to this Agreement. In doing so, any release shall be approved by the other party and such approval
+shall not be unreasonably withheld.
+2.8. COMPATIBILITY: Unless otherwise specifically identified in the System Specifications or a Change
+Order: (i) the Web Site is compatible solely with the domestic versions of Internet Explorer version 8.0
+and higher, (ii) Firefox 4.0 and higher (iii) Safari - latest version, (iv) Chrome - latest version.
+3. FEES, EXPENSES, AND PAYMENT.
+3.1. EXPENSES: Client shall reimburse Isotope11 for reasonable out-of-pocket travel expenses
+(collectively, "Expenses"), including transportation, lodging, mileage, and meals incurred in rendering
+Isotope11's professional services. Isotope11 shall obtain Client's prior written authorization before
+SOFTWARE DEVELPOEMENT AGREEMENT 2
+R.10152009
+incurring any individual expense. All Expenses not paid directly by Client shall be paid within fourteen
+(14) days of receipt of Isotope11's invoice. All Expense reimbursements shall be made at Isotope11's
+direct out-of-pocket costs, without any markup for overhead, administrative costs, or otherwise.
+3.2. FEES: Client agrees to pay Isotope 11 for the completion of the Scope of Work as set forth in
+accordance with Exhibit A hereto in accordance with the following schedule:
+$____ /hr.
+3.3. TAXES: Client shall pay, reimburse, and/or hold Isotope11 harmless for all sales, use, transfer, privilege,
+tariffs, excise, and all other taxes and all duties, whether international, national, state, or local, however
+designated except income taxes, which are levied or imposed by reason of the performance of the
+professional services under this Agreement or by use of the Product, except income taxes.
+3.4. OTHER FEES: Unless otherwise provided in this Agreement or in a Change Order, payment for all other
+services rendered by Isotope11 shall be contracted under a separate agreement between Isotope11 and
+Client.
+3.5. FORM OF PAYMENT: All payments made to Isotope11 under this Agreement shall be in United
+States currency in the form of company check, cashier's check, or electronic wire transfer.
+3.6. PAYMENT OF INVOICES: All invoices shall be paid by Client within fourteen (14) days of receipt.
+Payments not made within such time period shall be subject to late charges equal to the lesser of (i) one
+and one-half percent (1.5%) per month of the overdue amount or (ii) the maximum amount permitted
+under applicable law. Isotope11 may suspend all services on seven (7) days written notice until the
+amounts outstanding are paid in full.
+4. INTELLECTUAL PROPERTY RIGHTS AND LICENSE:
+4.1. PRODUCT: All materials, including, but not limited to, software, programs, source code and object
+code, comments to the source or object code, specifications, documents, abstracts and summaries thereof
+(collectively, the “Products”) developed by Isotope 11 in connection with the provision of the Services to
+Client, or jointly by Client and Isotope 11, or by Isotope 11 pursuant to specifications or instructions
+provided by Client, shall belong exclusively to Client. Isotope 11 acknowledges that the Products shall be
+deemed “works made for hire” by Isotope 11 for Client, and, therefore, shall be the exclusive property of
+Client. To the extent the Products are not deemed “works made for hire” under applicable law, Isotope 11
+hereby irrevocably assigns and transfers to Client all right, title and interest in and to the Products,
+including, without limitation, all patent and copyright interests, and agrees to execute all documents
+reasonably requested by Client for the purpose of applying for and obtaining domestic and foreign patent
+and copyright registrations.
+4.2. PRE-EXISTING INTELLECTUAL PROPERTY:. Notwithstanding any provision of this Agreement
+to the contrary, any routines, methodologies, processes, libraries, tools or technologies created, adapted or
+used by Isotope 11 in its business generally, including all associated intellectual property rights
+(collectively, the “Development Tools”), shall be and remain the sole property of Isotope 11, and
+Customer shall have no interest in or claim to the Development Tools, except as necessary to exercise its
+rights in the Products. In addition, notwithstanding any provision of this Agreement to the contrary,
+Isotope 11 shall be free to use any ideas, concepts, or know-how developed or acquired by Isotope 11
+during the performance of this Agreement to the extent obtained and retained by Isotope 11’s personnel as
+impression and general learning. Subject to and limited by Client’s intellectual property rights described in
+Section 4.1 above, nothing in this Agreement shall be construed to preclude Isotope 11 from using the
+Development Tools for use with third parties for the benefit of Isotope 11.
+4.3. THIRD PARTY LICSENSES: In addition to any other fees set forth in this Agreement, Client shall be
+required to purchase any applicable third party licenses for any third party products that are necessary for
+SOFTWARE DEVELPOEMENT AGREEMENT 3
+R.10152009
+Isotope11 to design and develop the Product. Such third party products may include, but are not limited to:
+server-side applications, clip art, "back-end" applications, music, stock images, or any other copyrighted
+work which Isotope11 deems necessary to purchase on behalf of Client to design and develop the Product.
+In the event any such third party product exceeds $250.00 per product (or $3000.00 in the aggregate),
+Isotope11 shall obtain Client's prior written consent before incorporating such third party product into the
+Product. Isotope11 shall provide Client with a list of all third party products upon launch of the Product.
+5. TERM AND TERMINATION:
+5.1. TERM: This Agreement shall be effective as of the Effective Date and shall continue in effect until
+complete payment of the Development Price or until earlier terminated as provided in this Agreement or
+until the contracted services as outlined in Exhibit A have been completed.
+5.2. TERMINATION FOR CAUSE: This Agreement may be terminated by either party upon written
+notice to the other, if the other party breaches any material obligation provided hereunder and the
+breaching party fails to cure such breach within thirty (30) days of receipt of the notice.
+5.3. EFFECT OF TERMINATION: Client shall pay Isotope11 for all services rendered and work
+performed up to the effective date of termination for any reason subject to Client's rights to only pay fair
+value if Client terminates for cause. Isotope11 shall provide Client with an invoice for the foregoing fees
+within thirty (30) days of the effective date of the termination. Client shall pay the invoice within fourteen
+(14) days of receipt.
+5.4. RETURN OF PROPRIETARY OR CONFIDENTIAL INFORMATION: Within ten (10)days after
+the termination or expiration of this Agreement, each party shall return to the other all Proprietary or
+Confidential Information of the other party (and any copies thereof) in the party's possession or, with the
+approval of the party, destroy all such Proprietary or Confidential Information. "Proprietary or
+Confidential Information" shall include, but is not limited to, written or oral contracts, trade secrets, knowhow,
+business methods, business policies, memoranda, reports, records, computer retained information,
+notes, or financial information. Proprietary or Confidential Information shall not include any information
+which: (i) is or becomes generally known to the public by any means other than a breach of the
+obligations of the receiving party; (ii) was previously known to the receiving party or rightly received by
+the receiving party from a third party; (iii) is independently developed by the receiving party; or (iv) is
+subject to disclosure under court order or other lawful process.
+6. LIMITED WARRANTIES:
+6.1. PRODUCT: Isotope11 warrants that for a period of ninety (90) days from launch of the Product, the
+Product will operate in accordance with all the material terms of the Product Specifications. All warranty
+claims not made in writing within such period shall be deemed waived. As the sole and exclusive remedy
+of Client for breach of the foregoing warranty, Isotope11 shall, at its option, either correct the
+nonconformity or refund to Client the dollar amount attributable to the number of actual hours Isotope11
+spent developing the defective portion of the Product. Isotope11 shall not be liable for failures caused by
+third party hardware or software (including Client's own systems), misuse of the Product, or the
+negligence or willful misconduct of Client.
+6.2. PERFORMANCE OF PROFESSIONAL SERVICES: Isotope11 warrants that the professional
+services will be performed in a workmanlike and professional manner by appropriately qualified
+personnel.
+6.3. Notwithstanding the above, Client's exclusive remedies for all damages, losses, and causes of actions
+whether in contract, tort including negligence or otherwise, shall not exceed the aggregate dollar amount
+which Client paid during the term of this Agreement.
+7. LIMITATION OF LIABILITY: Under no circumstances shall Isotope11, its contracted providers,
+officers, agents, or anyone else involved in creating, producing, or distributing Client's Product be liable for any
+SOFTWARE DEVELPOEMENT AGREEMENT 4
+R.10152009
+direct, indirect, incidental, special or consequential damages that result from the use of or inability to use the
+Product; or that results from mistakes, omissions, interruptions, deletion of files, errors, defects, delays in
+operation, or transmission or any failure of performance, whether or not limited to acts of God, communication
+failure, theft, destruction or unauthorized access to Client's records, programs or services. Client hereby
+acknowledges that this paragraph shall apply to all content on said Hosting Service. THE TOTAL LIABILITY
+FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION (WHETHER IN CONTRACT, TORT
+(INCLUDING NEGLIGENCE), OR OTHERWISE) TO THE OTHER SHALL NOT EXCEED THE
+DEVELOPMENT PRICE (AS DEFINED IN SECTION 0). THIS LIMITATION OF LIABILITY SHALL
+APPLY EVEN IF THE EXPRESS WARRANTIES SET FORTH ABOVE FAIL IN THEIR ESSENTIAL
+PURPOSE.
+8. THIRD PARTY DISCLAIMER: Isotope11 MAKES NO WARRANTY OF ANY KIND, WHETHER
+EXPRESS OR IMPLIED, WITH REGARD TO ANY THIRD PARTY PRODUCTS, THIRD PARTY
+CONTENT OR ANY SOFTWARE, EQUIPMENT, OR HARDWARE OBTAINED FROM THIRD PARTIES.
+9. INDEMNIFICATION OBLIGATIONS:
+9.1. CLIENT INDEMNITY: Client agrees that it shall defend, indemnify, save and hold Isotope11
+harmless from any and all demands, liabilities, losses, costs and claims, including reasonable attorneys'
+fees, (collectively "Liabilities") asserted against Isotope11, its contracted providers, agents, Clients,
+servants, officers and employees, that may arise or result from any service provided or performed or
+agreed to the performance of any product sold by Client, its agents, employees or assigns. Client agrees to
+defend, indemnify and hold harmless Isotope11 against Liabilities arising out of (i) any injury to any
+person or property caused by any products sold or otherwise distributed in connection with the Product;
+(ii) any material supplied by Client infringing or allegedly infringing on the proprietary rights of a third
+party; or (iii) copyright infringement and/or litigation regarding content-related disputes.
+9.2. ISOTOPE 11 INDEMNITY: Isotope11 shall indemnify and hold harmless Client (and its
+subsidiaries, affiliates, officers, agents, co-branders or other partners, and employees) from any and all
+claims, damages, liabilities, costs, and expenses (including, but not limited to, reasonable attorneys' fees
+and all related costs and expenses) incurred by Client as a result of any claim, judgment, or adjudication
+against Client arising from a claim that Client's use of the Isotope11 Content, as permitted under this
+Agreement, infringes Intellectual Property rights of a third party or arising from a claim which results
+from Isotope 11’s breach of the warranties and agreements contained in this Agreement. To qualify for
+such defense and payment, Client must: (i) give Isotope11 prompt written notice of a claim; and (ii) allow
+Isotope11 to control, and fully cooperate with Isotope11 in, the defense and all related negotiations.
+Isotope11 shall have no obligation to indemnify Client under this Section to the extent the infringement
+arises from (i) the Client Content, (ii) specifications provided by Client or its agents; (iii) derivative works
+of the Product created by Client, (iv) use of the Product in combination with non-Isotope11 approved third
+party products, including hardware and software, (v) modifications or maintenance of the Product by a
+party other than Isotope11, (vi) misuse of the Product, and (vii) failure of Client to implement any
+improvement or updates to the Product, if the infringement claim would have been avoided by the use of
+the improvement or updates.
+9.3. Promptly after receipt by a person entitled to indemnification pursuant to the foregoing Section 9.1 or 9.2
+(the "Indemnified Party") of notice of the commencement of any action, the Indemnified Party will, if a
+claim in respect thereof is to be or has been made against a party who has agreed to provide
+indemnification under Section 9.1 or 9.2 (an "Indemnifying Party"), promptly notify in writing the
+Indemnifying Party of the commencement thereof; but the omission to so notify the Indemnifying Party
+will not relieve it from any liability which it may have to the Indemnified Party except to the extent the
+Indemnifying Party is prejudiced by the delay or failure to notify it. In case any such action is brought
+against an Indemnified Party, and it notifies the Indemnifying Party of the commencement thereof, the
+Indemnifying Party will be entitled to participate in, and, to the extent that it may wish, jointly with any
+other Indemnifying Party similarly notified, to assume the defense thereof, subject to the provisions
+herein stated, with counsel reasonably satisfactory to the Indemnified Party, and after notice from the
+SOFTWARE DEVELPOEMENT AGREEMENT 5
+R.10152009
+Indemnifying Party to the Indemnified Party of its election to so assume the defense thereof, the
+Indemnifying Party will not be liable to the Indemnified Party under this Section 9 for any legal or other
+expenses subsequently incurred by the Indemnified Party in connection with the defense thereof other than
+reasonable costs of investigation. The Indemnified Party shall have the right to employ separate counsel in
+any such action and to participate in the defense thereof, but the fees and expenses of such counsel shall
+not be at the expense of the Indemnifying Party if the Indemnifying Party has assumed the defense of the
+action with counsel reasonably satisfactory to the Indemnified Party; provided that the fees and expenses
+of such counsel shall be at the expense of the Indemnifying Party if (i) the employment of such counsel
+has been specifically authorized in writing by the Indemnifying Party or (ii) the named parties to any such
+action (including any impleaded parties) include both the Indemnified Party or parties and the
+Indemnifying Party and, in the judgement of counsel for the Indemnified Party, it is advisable for the
+Indemnified Party or parties to be represented by separate counsel (in which case the Indemnifying Party
+shall not have the right to assume the defense of such action on behalf of the Indemnified Party or parties,
+it being understood, however, that the Indemnifying Party shall not, in connection with any one such
+action or separate but substantially similar or related actions in the same jurisdiction arising out of the
+same general allegations or circumstances, be liable for the reasonable fees and expenses of more than one
+separate firm of attorneys for the Indemnified Party or parties. No settlement of any action against an
+Indemnified Part shall be made without the consent of the Indemnifying Party and no Indemnifying Party,
+in the defense of any such claim or action, shall, except with the consent of the Indemnified Party, consent
+to entry of any judgment or enter into any settlement which does not include as an unconditional term
+thereof the giving by the claimant or plaintiff to such Indemnified Party of a release from all liability in
+respect to such claim or litigation. If the Indemnified Party fails to execute a release or other settlement
+agreement under circumstances where all of the conditions of the preceding sentence have been met, the
+Indemnifying Party shall have no further obligation to the Indemnified Party pursuant to this Agreement or
+otherwise.
+10. CONFIDENTIALITY: The parties agree to hold each other's Proprietary or Confidential Information in
+strict confidence. The parties agree not to make each other's Proprietary or Confidential Information available in
+any form to any third party or to use each other's Proprietary or Confidential Information for any purpose other
+than as specified in this Agreement. Each party's Proprietary or Confidential Information shall remain the sole
+and exclusive property of that party. The parties agree that in the event of use or disclosure by the other party
+other than as specifically provided for in this Agreement, the non-disclosing party may be entitled to equitable
+relief. Notwithstanding termination or expiration of this Agreement, Isotope11 and Client acknowledge and
+agree that their obligations of confidentiality with respect to Proprietary or Confidential Information shall
+continue in effect for a total period of three (3) years from the Effective Date.
+11. FORCE MAJEURE: Except with regard to payment obligations, either party shall be excused from
+delays in performing or from failing to perform its obligations under this Agreement to the extent the delays or
+failures result from causes beyond the reasonable control of the party, including, but not limited to: default of
+subcontractors or suppliers; failures or default of third party software, vendors, or products; acts of God or of
+the public enemy; U.S. or foreign governmental actions; strikes; communications, network/internet connection,
+or utility interruption or failure; fire; flood; epidemic; and freight embargoes.
+12. CHOICE OF LAW; VENUE; LIMITATION OF ACTIONS: This Agreement shall be
+governed and construed in accordance with the laws of the United States and the State of
+Alabama, and the parties consent to the sole and exclusive jurisdiction of the state courts and
+U.S. federal courts having jurisdiction in Jefferson County, Alabama for any dispute arising
+out of this Agreement. No action by Isotope11 or Client arising under this Agreement may be
+brought at any time more than two (2) years after the facts occurred upon which the cause of
+action arose.
+SOFTWARE DEVELPOEMENT AGREEMENT 6
+R.10152009
+13. INDEPENDENT CONTRACTOR STATUS: The relationship of Isotope11 to Client will be that of
+an independent contractor, and neither Isotope11 nor any employee of Isotope11 will be deemed to be an agent
+or employee of Client. It is expressly understood that this undertaking is not a joint venture.
+14. NOTICES: Any written notice or demand required by this Agreement shall be sent by registered or certified
+mail (return receipt requested), personal delivery, overnight commercial carrier, or other guaranteed delivery to
+the other party at the address set forth herein. The notice shall be effective (a) as of the date of delivery if the
+notice is sent by personal delivery, overnight commercial courier or other guaranteed delivery, and (b) as of five
+(5) days after the date of posting if the notice is transmitted by registered or certified mail.
+15. ENTIRE AGREEMENT: This Agreement and all exhibits, schedules, and Change Order(s) set forth the
+entire agreement between the parties with regard to the subject matter hereof. No other agreements,
+representations, or warranties have been made by either party to the other with respect to the subject matter of
+this Agreement, except as referenced herein. This Agreement may be amended only by a written agreement
+signed by both parties.
+16. DISPUTES: Client and Isotope11 agree to make a good-faith effort to resolve any disagreement arising out
+of, or in connection with, this Agreement through negotiation. Should the parties fail to resolve any such
+disagreement within ten (10) days, any controversy or claim arising out of or relating to this Agreement,
+including, without limitation, the interpretation or breach thereof, shall be submitted by either party to
+arbitration in Jefferson County, Alabama and in accordance with the Commercial Arbitration Rules of the
+American Arbitration Association. The arbitration shall be conducted by one arbitrator, who shall be (a)
+selected in the sole discretion of the American Arbitration Association administrator and (b) a licensed attorney
+with at least ten (10) years experience in the practice of law and at least five (5) years experience in the
+negotiation of technology contracts or litigation of technology disputes. The arbitrator shall have the power to
+enter any award that could be entered by a judge of the state courts of Alabama sitting without a jury, and only
+such power, except that the arbitrator shall not have the power to award punitive damages, treble damages, or
+any other damages which are not compensatory, even if permitted under the laws of the State of Alabama or any
+other applicable law. The arbitrator must issue his or her resolution of any dispute within thirty (30) days of the
+date the dispute is submitted for arbitration. The written decision of the arbitrator shall be final and binding and
+enforceable in any court having jurisdiction over the parties and the subject matter of the arbitration.
+Notwithstanding the foregoing, this Section shall not preclude either party from seeking temporary, provisional,
+or injunctive relief from any court.
+17. SEVERABILITY: In the event that a court finds any provision of this Agreement invalid and/or
+unenforceable, the parties agree that the remaining provisions shall remain valid and in force.
+18. WAIVER: Neither party shall be deemed by mere lapse of time (without giving notice or taking other action
+hereunder) to have waived any breach by the other party of any of the provisions of this Agreement. Further, the
+waiver by either party of a particular breach of this Agreement by the other party shall not be construed as, or
+constitute, a continuing waiver of such breach, or of other breaches of the same or other provisions of this
+Agreement.
+19. SURVIVAL: The following provisions shall survive termination or expiration of this Agreement: Sections
+10 (Fees, Expenses, and Payment), 11 (Intellectual Property Rights and License), 12 (Term and Termination),
+14 (Disclaimer of Warranties), 15 (Limitation of Liability), 16 (Third Party Disclaimer), 17 (Indemnification
+obligations) 18 (Confidentiality), 20 (Choice of Law; Venue; Limitation of Actions), 24 (Disputes), and 27
+(Survival).
+20. DAYS: Unless indicated otherwise, all references to "days" shall mean calendar days.
+21. APPROVAL: This Agreement shall not be binding upon Isotope11 until it has been signed by an officer of
+Isotope11.
+SOFTWARE DEVELPOEMENT AGREEMENT 7
+R.10152009
+22. TRADEMARKS: The Client unconditionally warrants and guarantees that any elements of text, graphics,
+photos, designs, trademarks, or other artwork furnished to Isotope11, Inc. and/or its assigns for inclusion in the
+Product are owned by the Client, or that the Client has permission from the rightful owner to use each of these
+elements, and will hold harmless, protect, indemnify and defend Isotope11, Inc. its assigns and its
+subcontractors from any liability (including attorney's fees and court costs), including any claim or suit,
+threatened or actual, arising from the use of such elements furnished by the Client.
+23. THIRD PARTY SOFTWARE: Additionally, in the event Client elects to install or seek assistance from
+Isotope11 in connection with the installation of any third-party software, the following terms shall apply. Client
+represents and warrants that Client has the right to use and install the third-party software, and have paid the
+applicable licensing fees for the third party software, and the third-party software does not and shall not infringe
+on the intellectual property rights of any other person or entity. Client agrees to defend, indemnify and hold
+harmless Isotope11 and its employees, officers and directors for, from and against any and all claims brought
+against Isotope11 and its employees, officers and directors by a third-party alleging the software infringes: (i)
+the third-party’s rights; or (ii) a U.S. patent, trademark, copyright or other intellectual property right. Client
+agree that in such an event Client shall pay all resulting costs, damages, expenses and reasonable attorneys’ fees
+that a court awards and settlements incurred by Isotope11 in connection with any such claims.
+24. LAW AFFECTING ELECTRONIC COMMERCE: The client agrees that the client is solely
+responsible for complying with such laws, taxes, and tariffs, and will hold harmless, protect, and defend Isotope
+11 and its subcontractors from any claim, suit, penalty, tax, or tariff arising from the client’s use of Internet
+electronic commerce. Isotope11, Inc warrants that it will secure, as needed on e-commerce sites, a valid SSL
+certificate on any site which will transmit, receive, process or have access to sensitive data of any sort.
+25. LAWFUL PURPOSE: Client may only use the Product for lawful purposes.
+26. ASSIGNMENT: Neither party may not assign this Agreement or any of its rights or obligations or the
+license hereunder, without the prior written consent of the other.
+27. RESERVATION OF RIGHTS: Isotope11 reserves all rights not specifically granted herein.
+28. REMEDIES NOT EXCLUSIVE: The remedies available to the parties under this Agreement are
+cumulative and not exclusive to each other, and any such remedy will not be deemed or construed to affect any
+right which either of the parties is entitled to seek at law, in equity or by statute.
+29. CHOICE OF LAW AND JUSRISDICTION: This Agreement will be governed and interpreted by
+the laws of the jurisdiction of the State of Alabama, without regard to its conflicts of law provisions. The parties
+hereby irrevocably and unconditionally agree to the non-exclusive jurisdiction of the courts of the jurisdiction
+of the State of Alabama, and all courts competent to hear appeals there from.
+IN WITNESS WHEREOF, Isotope11 and Client have executed this Agreement effective as of the date and
+year first written above.
+Company:____________________________ Isotope Eleven Inc., an Alabama Corporation
+By:
+Representing Client
+Agent for Isotope Eleven, Inc
+(Social Security Number/Tax ID)
+SOFTWARE DEVELPOEMENT AGREEMENT 8
+R.10152009
+EXHIBIT A
+SCOPE OF WORK
+SOFTWARE DEVELPOEMENT AGREEMENT 9
+R.10152009

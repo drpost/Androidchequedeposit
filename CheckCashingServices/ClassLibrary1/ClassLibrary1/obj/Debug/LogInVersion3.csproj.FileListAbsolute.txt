@@ -1,0 +1,5 @@
+C:\Users\Public\Centennial College\Winter 2015\COMP231\CheckCashingService\LogIn_Version3\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Public\Centennial College\Winter 2015\COMP231\CheckCashingService\LogIn_Version3\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Public\Centennial College\Winter 2015\COMP231\CheckCashingService\LogIn_Version3\ClassLibrary1\ClassLibrary1\obj\Debug\LogInVersion3.csprojResolveAssemblyReference.cache
+C:\Users\Public\Centennial College\Winter 2015\COMP231\CheckCashingService\LogIn_Version3\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Public\Centennial College\Winter 2015\COMP231\CheckCashingService\LogIn_Version3\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
