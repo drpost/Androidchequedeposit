@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ChequeAppLoginScreen</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+<string name="TAC_content">This is the Terms and Conditions for the use of this application.
+1. You must have a valid bank account and an on-line banking password.
+2. Any cheques deposited via this app must be held for 14 days.
+3. Any cheques deposited may be held by the bank before they are deposited according to your chequeing agreement.
+4. Standard fees apply to any cheque deposited via this app.
+5. All penalty fees will be applied for dishonoured cheques deposited via this app.
+</string>
+    <string name="title_activity_termsand_cond">TermsandCondActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
