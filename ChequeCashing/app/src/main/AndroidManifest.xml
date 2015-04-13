@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mycompany.chequecashing" >
-    
+    package="example.com.chequecashing" >
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <uses-feature android:name="android.hardware.camera" />
     <uses-feature android:name="android.hardware.camera.autoFocus" />
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/ic_launcher"
+        android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".HomeActivity"
+            android:name=".LoginActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,10 +24,45 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ActivityPhotoFront"
-            android:label="@string/title_activity_photo_front" >
+            android:name=".TermsActivity"
+            android:label="@string/title_activity_terms" >
         </activity>
-        <activity android:name=".confirmation" />
+        <activity
+            android:name=".MainScreenActivity"
+            android:label="@string/title_activity_main_screen" >
+        </activity>
+        <activity
+            android:name=".messageListActivity"
+            android:label="@string/title_message_list" >
+        </activity>
+        <activity
+            android:name=".MessagesActivity"
+            android:label="@string/title_activity_messages" >
+        </activity>
+        <activity
+            android:name=".DepositActivity"
+            android:label="@string/title_activity_deposit" >
+        </activity>
+        <activity
+            android:name=".PhotoActivity"
+            android:label="@string/title_activity_photo" >
+        </activity>
+        <activity
+            android:name=".ConfirmDeposit_Activity"
+            android:label="@string/title_activity_confirm_deposit_" >
+        </activity>
+        <activity
+            android:name=".SubmitActivity"
+            android:label="@string/title_activity_submit" >
+        </activity>
+        <activity
+            android:name=".HelpActivity"
+            android:label="@string/title_activity_help" >
+        </activity>
+        <activity
+            android:name=".LanguageActivity"
+            android:label="@string/title_activity_language" >
+        </activity>
     </application>
 
 </manifest>
